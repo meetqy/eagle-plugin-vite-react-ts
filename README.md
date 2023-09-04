@@ -16,6 +16,8 @@
 git clone https://github.com/meetqy/eagle-plugin-vite-react-ts.git
 ```
 
+**Install and dev**
+
 ```sh
 pnpm i
 pnpm dev
