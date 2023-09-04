@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "platform": "all",
   "arch": "all",
-  "name": "rao.pics - 跨设备访问素材",
+  "name": "eagle-plugin-vite-react-ts",
+  "description": "Vite React TypeScript TailwindCss template for Eagle Plugin.",
   "logo": "/dist/vite.svg",
-  "keywords": [],
+  "keywords": ["template"],
   "devTools": false,
   "main": {
     "url": "dist/index.html",

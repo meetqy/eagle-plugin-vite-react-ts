@@ -8,6 +8,26 @@
 - tailwindcss
 - daisyui
 
+## Start
+
+`use template button` or
+
+```sh
+git clone https://github.com/meetqy/eagle-plugin-vite-react-ts.git
+```
+
+```sh
+pnpm i
+pnpm dev
+```
+
+or
+
+```sh
+npm i
+npm dev
+```
+
 ## Dark and Light theme
 
 More theme, Reference https://daisyui.com/docs/themes/
