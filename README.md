@@ -27,7 +27,7 @@ or
 
 ```sh
 npm i
-npm dev
+npm run dev
 ```
 
 ## Dark and Light theme
